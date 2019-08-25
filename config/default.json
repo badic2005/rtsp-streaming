@@ -1,0 +1,4 @@
+{
+  "mongoURI" : "mongodb://root:r00tr00t@ds211708.mlab.com:11708/mongo-data",
+  "jwtSecret" : "home_assign_anyvision_jwt"
+}
